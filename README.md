@@ -2,7 +2,7 @@
 
 ## Instalación del moodle
 
-`
+```
 apt update
 apt upgrade
-`
+```
